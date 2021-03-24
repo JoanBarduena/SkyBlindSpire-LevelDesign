@@ -1,7 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":1139,"scrollY":633},
-{"id":2,"expanded":true,"name":"Village","order":2,"parentId":0,"scrollX":2713.2,"scrollY":3007.2},
-null,
-{"id":4,"expanded":false,"name":"Temple","order":3,"parentId":0,"scrollX":1518,"scrollY":844}
+{"id":1,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":1518,"scrollY":844},
+{"id":2,"expanded":true,"name":"Village","order":2,"parentId":0,"scrollX":4968,"scrollY":2762.1818181818185},
+{"id":3,"expanded":true,"name":"Shop","order":4,"parentId":0,"scrollX":1138.5,"scrollY":633},
+{"id":4,"expanded":false,"name":"Temple","order":3,"parentId":0,"scrollX":1518,"scrollY":844},
+{"id":5,"expanded":false,"name":"Posada (Piso 1)","order":6,"parentId":0,"scrollX":3036,"scrollY":1688},
+{"id":6,"expanded":true,"name":"Casa de pueblo (Piso 1)","order":5,"parentId":0,"scrollX":1138.5,"scrollY":633},
+{"id":7,"expanded":false,"name":"Ciudad flotante","order":7,"parentId":0,"scrollX":1507.3333333333333,"scrollY":1236}
 ]
