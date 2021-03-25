@@ -1,12 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":2277,"scrollY":1266},
-{"id":2,"expanded":true,"name":"Village","order":2,"parentId":0,"scrollX":2261,"scrollY":2886},
-{"id":3,"expanded":true,"name":"Shop","order":4,"parentId":0,"scrollX":1951.7142857142856,"scrollY":1085.142857142857},
-{"id":4,"expanded":false,"name":"Temple","order":3,"parentId":0,"scrollX":2277,"scrollY":1266},
-{"id":5,"expanded":false,"name":"Posada (Piso 1)","order":6,"parentId":0,"scrollX":2277,"scrollY":1266},
-{"id":6,"expanded":true,"name":"Casa de pueblo (Piso 1)","order":5,"parentId":0,"scrollX":2277,"scrollY":1266},
-{"id":7,"expanded":false,"name":"Casa 1","order":7,"parentId":0,"scrollX":2277,"scrollY":1266},
-{"id":8,"expanded":false,"name":"Casa abandonada","order":8,"parentId":0,"scrollX":2277,"scrollY":1266},
-{"id":9,"expanded":false,"name":"Casa 2","order":9,"parentId":0,"scrollX":2277,"scrollY":1266}
+{"id":1,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":1242,"scrollY":690.5454545454546},
+{"id":2,"expanded":true,"name":"Village","order":8,"parentId":0,"scrollX":2722,"scrollY":624},
+{"id":3,"expanded":true,"name":"Shop","order":9,"parentId":0,"scrollX":1366.2,"scrollY":759.6},
+{"id":4,"expanded":false,"name":"Temple","order":7,"parentId":0,"scrollX":1233.2727272727273,"scrollY":749.4545454545455},
+{"id":5,"expanded":false,"name":"Posada (Piso 1)","order":3,"parentId":0,"scrollX":1242,"scrollY":690.5454545454546},
+{"id":6,"expanded":true,"name":"Casa de pueblo (Piso 1)","order":2,"parentId":0,"scrollX":1242,"scrollY":690.5454545454546},
+{"id":7,"expanded":false,"name":"Casa 1","order":4,"parentId":0,"scrollX":1242,"scrollY":690.5454545454546},
+{"id":8,"expanded":false,"name":"Casa abandonada","order":5,"parentId":0,"scrollX":1518,"scrollY":844},
+{"id":9,"expanded":false,"name":"CasaAbuelitoJuan","order":6,"parentId":0,"scrollX":1242,"scrollY":690.5454545454546},
+{"id":10,"expanded":true,"name":"Cave","order":10,"parentId":0,"scrollX":1012,"scrollY":562.6666666666666}
 ]
