@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":1228.5,"scrollY":691.5},
-{"id":2,"expanded":true,"name":"Village","order":8,"parentId":0,"scrollX":1316,"scrollY":2782.6666666666665},
+{"id":2,"expanded":true,"name":"Village","order":8,"parentId":0,"scrollX":1316,"scrollY":2009.3333333333333},
 {"id":3,"expanded":true,"name":"Shop","order":9,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":4,"expanded":false,"name":"Temple","order":7,"parentId":0,"scrollX":1081.3333333333333,"scrollY":825.3333333333334},
 {"id":5,"expanded":false,"name":"Posada (Piso 1)","order":3,"parentId":0,"scrollX":1638,"scrollY":922},
